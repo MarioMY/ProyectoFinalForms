@@ -1,0 +1,10 @@
+C:\Users\mario\source\repos\ProyectoFinalForms\obj\Debug\ProyectoFinalForms.csprojAssemblyReference.cache
+C:\Users\mario\source\repos\ProyectoFinalForms\obj\Debug\ProyectoFinalForms.Form1.resources
+C:\Users\mario\source\repos\ProyectoFinalForms\obj\Debug\ProyectoFinalForms.Properties.Resources.resources
+C:\Users\mario\source\repos\ProyectoFinalForms\obj\Debug\ProyectoFinalForms.csproj.GenerateResource.cache
+C:\Users\mario\source\repos\ProyectoFinalForms\obj\Debug\ProyectoFinalForms.csproj.CoreCompileInputs.cache
+C:\Users\mario\source\repos\ProyectoFinalForms\bin\Debug\ProyectoFinalForms.exe.config
+C:\Users\mario\source\repos\ProyectoFinalForms\bin\Debug\ProyectoFinalForms.exe
+C:\Users\mario\source\repos\ProyectoFinalForms\bin\Debug\ProyectoFinalForms.pdb
+C:\Users\mario\source\repos\ProyectoFinalForms\obj\Debug\ProyectoFinalForms.exe
+C:\Users\mario\source\repos\ProyectoFinalForms\obj\Debug\ProyectoFinalForms.pdb
